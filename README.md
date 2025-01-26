@@ -94,8 +94,10 @@ This project involves multi-label classification and ordinal intensity predictio
 ### **Links**
 - [SemEval 2025 Task 11-A Details](https://www.codabench.org/competitions/3863/)
 - [Competition GitHub Repository](https://github.com/emotion-analysis-project/SemEval2025-Task11)
+- [Guidelines about submission and dataset](https://docs.google.com/document/d/1yETTEiD8JVL8oeXu8Dvwc7OgPIDp0ROxd9nXifsXYYE/edit?tab=t.0)
 - [BERT Text Classification Tutorial](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
 - [RoBERTa Explanation](https://medium.com/@hugmanskj/hands-on-head-based-text-classification-with-bert-0a1775d5db9d)
 - [SHAP for Text Analysis](https://shap.readthedocs.io/en/latest/example_notebooks/text_examples/sentiment_analysis/Emotion%20classification%20multiclass%20example.html)
+- [GoogleDoc for Documentation](https://docs.google.com/document/d/1UV9qxCByIUs7LBJSyvpZaVmIFPCtqlK9AFBOESKekTs/edit?tab=t.0)
 
 ---
